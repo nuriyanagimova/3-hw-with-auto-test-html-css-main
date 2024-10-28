@@ -75,7 +75,7 @@ header span {
 .about-section .wrapper {
     /* 📍 Свойствa flexbox для отступов между элементами select, .info-wrapper и .skills-wrapper  */
     
-    gap: 80px;
+    gap: 60px;
 }
 
 select {
@@ -144,6 +144,7 @@ select:hover,
 
 .skills {
     /* 📍 Свойства flexbox для расположения элементов с классом .label */
+    gap : 20px;
 }
 
 .books-list {
